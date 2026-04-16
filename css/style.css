@@ -54,7 +54,7 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
 }
 
 .form-header p {
-    color: aquamarine;
+    color: rgb(207, 6, 90);
     border-bottom: 2px solid white;
     width: 100px;
     text-align: center;
