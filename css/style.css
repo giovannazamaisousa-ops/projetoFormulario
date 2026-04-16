@@ -9,7 +9,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: rgb(204, 110, 173);
+    color: rgb(206, 4, 138);
 }
 
 p, label {
@@ -23,7 +23,7 @@ input {
 }
 input[type="text"], input[type="number"], input[type="date"], input[type="file"], textarea {
     width: 400px;
-    
+
 }
  textarea {
     padding: 10px 5px;
