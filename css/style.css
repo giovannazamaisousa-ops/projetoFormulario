@@ -9,16 +9,16 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: black;
+    color: rgb(204, 110, 173);
 }
 
 p, label {
-    color: blue;
+    color: rgb(0, 0, 0);
 }
 
 input {
     border: none;
-    border-bottom: 1px solid red;
+    border-bottom: 1px solid rgb(218, 38, 143);
     padding: 10px 0;
 }
 
