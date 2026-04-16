@@ -36,14 +36,30 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
 }
 
 .cabecalho h3 {
-    color: blue;
+    color: rgb(218, 0, 109);
     margin-top: 0;
 }
 
 .form-container {
-    background-color: blue;
+    background-color: rgb(241, 178, 208);
     width: 60%;
     margin: 0 auto;
     position: relative;
     top: -46px;
+}
+
+.form-header {
+    border-bottom: 1px solid white;
+    height: 45px;
+}
+
+.form-header p {
+    color: aquamarine;
+    border-bottom: 2px solid white;
+    width: 100px;
+    text-align: center;
+    margin: 0 auto;
+    text-transform: uppercase;
+    height: 45px;
+    list-style: 45px;
 }
