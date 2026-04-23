@@ -57,9 +57,9 @@
                     <p>Tipo de Câmbio: <span class="campo-obrigatorio">*</span></p>
                     <input type="radio" name="marcha" id="manual">
                     <label for="manual">Manual</label>
-		    <input type="radio" name="marcha" id="auto">
+                    <input type="radio" name="marcha" id="auto">
                     <label for="auto">Automático</label>
-                </div> 
+                </div>
                 <div class="caixaOpcional">
                     <p>Opcionais</p>
                     <ul class="listaOpcionais">
@@ -92,7 +92,8 @@
                             <label for="partidaSemChave">Partida sem chave</label>
                         </li>
                         <li>
-                            <input type="checkbox" name="integracaoComCelular" id="opcional[]" value="integracaoComCelular">
+                            <input type="checkbox" name="integracaoComCelular" id="opcional[]"
+                                value="integracaoComCelular">
                             <label for="integracaoComCelular">Integração com celular</label>
                         </li>
                         <li>
@@ -101,6 +102,11 @@
                         </li>
                     </ul>
                 </div>
+                <div class="caixaInputs">
+                    <p>Fotos do carro <span class="campoobrigatorio">*</span></p>
+                    <input type="file" name="images" id="images" multiple accept="image/png, image/jpg">
+                </div>
+                <input type="submit" value="Enviar" class="btn-submit">
             </form>
         </div>
     </div>
