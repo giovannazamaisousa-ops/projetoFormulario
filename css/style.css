@@ -54,7 +54,7 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
 }
 
 .form-header p {
-    color: rgb(136, 22, 98);
+    color: #e6748e;
     border-bottom: 2px solid white;
     width: 100px;
     text-align: center;
@@ -110,7 +110,7 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
 }
 
 .btn-submit:hover {
-    background-color: aqua;
-    color: brown;
+    background-color:#e6748e;
+    color: #;
     border-color: black;
 }
