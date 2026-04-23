@@ -77,7 +77,7 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
 }
 
 .campo-obrigatorio {
-    color: blue;
+    color: rgb(255, 0, 0);
 }
 
 .caixaInputs {
