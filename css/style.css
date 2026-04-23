@@ -18,7 +18,7 @@ p, label {
 
 input {
     border: none;
-    border-bottom: 1px solid rgb(218, 38, 143);
+    border-bottom: 1px solid rgb(136, 22, 98);
     padding: 10px 0;
 }
 input[type="text"], input[type="number"], input[type="date"], input[type="file"], textarea {
@@ -32,7 +32,7 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
 .cabecalho {
     height: 160px;
     padding: 20px;
-    background-color: rgb(136, 22, 98);
+    background-color: rgb(189, 35, 138);
 }
 
 .cabecalho h3 {
@@ -54,7 +54,7 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
 }
 
 .form-header p {
-    color: rgb(207, 6, 90);
+    color: rgb(136, 22, 98);
     border-bottom: 2px solid white;
     width: 100px;
     text-align: center;
