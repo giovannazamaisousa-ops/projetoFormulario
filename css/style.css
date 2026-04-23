@@ -75,3 +75,7 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
 .form-body p {
     margin-bottom: 20px;
 }
+
+.campo-obrigatorio {
+    color: blue;
+}
