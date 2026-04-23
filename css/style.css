@@ -97,3 +97,14 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
     list-style: none;
     margin-bottom: 5px;
 }
+
+.btn-submit {
+    background-color: deeppink;
+    color: aliceblue;
+    border: 2px solid transparent;
+    width: 150px;
+    height: 50px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: 0.5s;
+}
