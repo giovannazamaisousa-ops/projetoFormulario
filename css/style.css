@@ -108,3 +108,9 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
     text-transform: uppercase;
     transition: 0.5s;
 }
+
+.btn-submit:hover {
+    background-color: aqua;
+    color: brown;
+    border-color: black;
+}
