@@ -41,7 +41,7 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
 }
 
 .form-container {
-    background-color: rgb(255, 216, 237);
+    background-color: rgb(207, 139, 175);
     width: 60%;
     margin: 0 auto;
     position: relative;
