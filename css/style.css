@@ -9,7 +9,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: rgb(136, 22, 98);
+    color: #e6748e;
 }
 
 p, label {
@@ -32,11 +32,11 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
 .cabecalho {
     height: 160px;
     padding: 20px;
-    background-color: #a7bcbd;
+    background-color: #6bb1ad;
 }
 
 .cabecalho h3 {
-    color: #6bb1ad;
+    color: #edecdb;
     margin-top: 0;
 }
 
