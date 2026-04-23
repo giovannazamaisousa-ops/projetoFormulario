@@ -79,3 +79,11 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
 .campo-obrigatorio {
     color: blue;
 }
+
+.caixaInputs {
+    margin-bottom: 35px;
+}
+
+.block {
+    display: block;
+}
