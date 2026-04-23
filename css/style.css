@@ -32,7 +32,7 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
 .cabecalho {
     height: 160px;
     padding: 20px;
-    background-color: rgb(189, 35, 138);
+    background-color: #6bb1ad;
 }
 
 .cabecalho h3 {
