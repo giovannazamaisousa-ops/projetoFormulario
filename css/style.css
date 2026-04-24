@@ -114,3 +114,9 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
     color: white;
     border-color: white;
 }
+
+hr {
+    margin-top: 20px;
+    height: 3px;
+    background: linear-gradient(to right, transparent, #6bb1ad, transparent);
+}
