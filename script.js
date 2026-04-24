@@ -19,6 +19,11 @@ function salvarCarro(event) {
         cambio
     };
 
-    let carros = JSON.parse(localStorage.getItem("carros")) ||
-    [];
+    let carros = JSON.parse(localStorage.getItem("carros")) || [];
+    carros.push(carro);
+    localStorage.setItem("carros", JSON.stringify(carros));
+
+    adicionarNaTela(carro);
+
+    document.querySelector("form").reset();
 }
