@@ -1,3 +1,3 @@
 function salvarCarro(event) {
-    event.preventDeffault();
+    event.preventDefault();
 }
