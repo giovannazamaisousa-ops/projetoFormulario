@@ -110,7 +110,7 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
 }
 
 .btn-submit:hover {
-    background-color:#e5a9a9;
+    background-color:#6bb1ad;
     color: white;
     border-color: white;
 }
