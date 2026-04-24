@@ -118,7 +118,7 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
 hr {
     margin-top: 20px;
     height: 3px;
-    background: linear-gradient(to right, transparent, #e6748e, transparent);
+    background: linear-gradient(to right, transparent,#6bb1ad, transparent);
     margin: 20px 0;
     border: none;
 }
