@@ -17,5 +17,8 @@ function salvarCarro(event) {
         marca,
         modelo,
         cambio
-    }
+    };
+
+    let carros = JSON.parse(localStorage.getItem("carros")) ||
+    [];
 }
