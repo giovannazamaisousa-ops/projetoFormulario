@@ -99,7 +99,7 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
 }
 
 .btn-submit {
-    background-color: deeppink;
+    background-color: #e5a9a9;
     color: aliceblue;
     border: 2px solid transparent;
     width: 150px;
@@ -110,7 +110,7 @@ input[type="text"], input[type="number"], input[type="date"], input[type="file"]
 }
 
 .btn-submit:hover {
-    background-color:#e6748e;
-    color: #;
-    border-color: black;
+    background-color:#e5a9a9;
+    color: #e6748e;
+    border-color: white;
 }
