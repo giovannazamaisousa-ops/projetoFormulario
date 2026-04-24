@@ -18,7 +18,7 @@ p, label {
 
 input {
     border: none;
-    border-bottom: 1px solid #6bb1ad;
+    border-bottom: 1px solid #e6748e;
     padding: 10px 0;
 }
 input[type="text"], input[type="number"], input[type="date"], input[type="file"], textarea {
