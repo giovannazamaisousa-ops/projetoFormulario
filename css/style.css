@@ -122,3 +122,10 @@ hr {
     margin: 20px 0;
     border: none;
 }
+
+#listaCarros {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}
