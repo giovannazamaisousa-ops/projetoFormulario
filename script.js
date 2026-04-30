@@ -61,4 +61,6 @@ function excluirCarro(id) {
     carros = carros.filter(carro => carro.id !== id);
 
     localStorage.setItem('carros', JSON.stringify(carros));
+
+    document.getElementById('listaCarros').innerHTML = "";
 }
