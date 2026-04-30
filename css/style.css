@@ -129,3 +129,11 @@ hr {
     gap: 20px;
     padding: 20px;
 }
+
+.card {
+    width: 250px;
+    background-color: #6bb1ad;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 0 20px 5px black;
+}
