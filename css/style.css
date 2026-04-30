@@ -26,15 +26,15 @@ input {
 }
 
 input::placeholder {
-    color: black;
+    color: rgb(75, 41, 9);
 }
 
 textarea::placeholder {
-    color: black;
+    color: rgb(59, 31, 5);
 }
 input[type="text"], input[type="number"], input[type="date"], input[type="file"], textarea {
     width: 400px;
-
+    color: rgb(90, 41, 9);
 }
  textarea {
     padding: 10px 5px;
